@@ -3983,7 +3983,7 @@ div#shop_area {
     font-size: 21px;
     height:1.7em;
     width: 1.7em;
-    line-height: 1.9em;
+    padding: 7px 11px;
     vertical-align: middle;
     border-radius: 100%;
     margin-top: 3%;
